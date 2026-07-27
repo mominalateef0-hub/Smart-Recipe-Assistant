@@ -7,7 +7,7 @@ An AI-powered web application that turns whatever ingredients you have on hand i
 ---
 
 ## 🌐 Live Demo
-[Click Here to Try the App](https://mb5y2n476qqmnb55.streamlit.app)
+[Click Here to Try the App](https://smart-recipe-assistant-fkfuxnmb5y2n476qqmnb55.streamlit.app)
 
 ---
 
