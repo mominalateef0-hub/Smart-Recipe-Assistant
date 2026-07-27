@@ -34,7 +34,7 @@ if api_key:
         else:
             with st.spinner("Cooking up recipe ideas..."):
                 try:
-                    model = genai.GenerativeModel("gemini-2.0-flash")
+                    model = genai.GenerativeModel("gemini-2.5-flash")
 
                     # System prompt guiding the AI's behavior
                     system_prompt = """
