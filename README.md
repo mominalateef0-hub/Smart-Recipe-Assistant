@@ -60,11 +60,9 @@ This prompt was written to keep the AI's output focused, practical, and locally 
 
 ## 📸 Screenshots
 
-*(Add 3 screenshots of your working app here before submitting)*
-
-![Screenshot 1 - Home Page](./screenshots/screen1.png)
-![Screenshot 2 - Entering Ingredients](./screenshots/screen2.png)
-![Screenshot 3 - Generated Recipes](./screenshots/screen3.png)
+<img width="1024" height="588" alt="image" src="https://github.com/user-attachments/assets/b3d6cec8-567f-4226-a5bd-b4a3ed48b5f4" />
+<img width="512" height="334" alt="image" src="https://github.com/user-attachments/assets/1f4b54e0-bf49-4e99-ab32-eacd37721f61" />
+<img width="1024" height="863" alt="image" src="https://github.com/user-attachments/assets/a68cbc42-6cc7-40a3-a9e8-7d8186994bfe" />
 
 ---
 
