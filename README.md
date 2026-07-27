@@ -7,7 +7,7 @@ An AI-powered web application that turns whatever ingredients you have on hand i
 ---
 
 ## 🌐 Live Demo
-[Click Here to Try the App](https://your-app-link.streamlit.app)
+[Click Here to Try the App](https://mb5y2n476qqmnb55.streamlit.app)
 *(Replace this link with your actual Streamlit Community Cloud URL after deploying)*
 
 ---
